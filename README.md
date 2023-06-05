@@ -1,17 +1,36 @@
-# ALX SE  PROGRAM COHORT 17
+# ALX SE PROGRAM COHORT 17
 
-## Curriculum SE Foundations - Overview
+## Software Engineering curriculum - Overview
 
-### First Trimester
-
-* Intro
+# *First Trimister*
+* Introduction
 * C
 * Bit Manipulation
-* Variadic Function
-* Memory management
+* Variadic Functions
+* Memory Management
 * File Redirection
 * printf
 * Shell
 * Compilation
 * Heap/Stack
 * Linux
+* Static Libraries
+* Social Media
+* Public Speaking/Stand ups
+
+## Second Trimester
+
+* Python
+* Basic
+* Object-Oriented Programming
+* Interpreted Language
+* Test Driven Development
+* Error Handling
+* I/O
+* Web Scraping
+* C
+* Linux
+* Databases
+* Systems Engineering
+* Airbnb Project
+
