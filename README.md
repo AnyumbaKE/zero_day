@@ -4,14 +4,14 @@
 
 ### First Trimester
 
-*Intro
-*C
-*Bit Manipulation
-*Variadic Function
-*Memory management
-*File Redirection
-*printf
-*Shell
-*Compilation
-*Heap/Stack
-*Linux
+* Intro
+* C
+* Bit Manipulation
+* Variadic Function
+* Memory management
+* File Redirection
+* printf
+* Shell
+* Compilation
+* Heap/Stack
+* Linux
