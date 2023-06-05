@@ -18,7 +18,7 @@
 * Social Media
 * Public Speaking/Stand ups
 
-## Second Trimester
+# *Second Trimester*
 
 * Python
 * Basic
