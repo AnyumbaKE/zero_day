@@ -1,8 +1,10 @@
-# ALX SE PROGRAM COHORT 17
+<h1 align='center'>ALX SE PROGRAM COHORT 16</h1> 
+
+### Duration: May 2023 - ongoing
 
 ## Software Engineering curriculum - Overview
 
-# *First Trimister*
+## *First Trimister*
 * Introduction
 * C
 * Bit Manipulation
@@ -18,7 +20,7 @@
 * Social Media
 * Public Speaking/Stand ups
 
-# *Second Trimester*
+## *Second Trimester*
 
 * Python
 * Basic
